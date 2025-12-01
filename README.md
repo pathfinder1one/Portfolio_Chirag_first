@@ -62,13 +62,7 @@ This portfolio includes:
 
 ---
 
-## 🔗 Live Demo 
 
-If you upload it to GitHub Pages, add the link here:
-
-```
-https://yourusername.github.io/your-portfolio/
-```
 
 ---
 
