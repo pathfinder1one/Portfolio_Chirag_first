@@ -1,4 +1,4 @@
-Here is a clean, professional **README.md** for your portfolio project:
+
 
 ---
 
@@ -62,7 +62,7 @@ This portfolio includes:
 
 ---
 
-## 🔗 Live Demo (Optional)
+## 🔗 Live Demo 
 
 If you upload it to GitHub Pages, add the link here:
 
